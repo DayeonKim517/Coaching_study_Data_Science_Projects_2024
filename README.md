@@ -1,4 +1,5 @@
 ## 네이버 부스트코스 코칭스터디 Data_Science_Projects 2024
+![부코_코칭스터디_DataScience2024_롤링배너](https://github.com/user-attachments/assets/a4e015c9-8288-49fe-9bf0-82214620e575)
 
 
 ### 활동기간
