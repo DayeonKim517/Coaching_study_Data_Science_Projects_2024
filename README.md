@@ -11,7 +11,8 @@
 - 4주차 : 모델과 파라미터 찾기
 
 ### 수료증
-[부스트코스 수료증 2024 - luka.pdf](https://github.com/user-attachments/files/16921188/2024.-.luka)
+![부스트코스 수료증 2024 _pages-to-jpg-0001](https://github.com/user-attachments/assets/04d61881-bb80-4cfd-9398-a8d5fa9c3999)
+
 
 
 
